@@ -1,0 +1,11 @@
+module Library{
+
+interface Lib{
+
+long issue(in long x);
+
+long return1(in long x);
+
+};
+
+};
